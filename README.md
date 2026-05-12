@@ -1,12 +1,29 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <h3 align="center">⌨️ Hi, I'm Md Mursalin</h3>
+  <h3 align="center">⌨️ Hi, </h3>
 </p>
 
 <p align="center">
   <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile;This+is+me+Md+Mursalin;Message+me+in+everywhere&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-mursalin-60536b366/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mursalinhossan86@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mursalinhossan86%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <a href="https://github.com/Mursalin2111">
+    <img src="https://img.shields.io/github/followers/Mursalin2111?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Mursalin2111?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Mursalin2111?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars" />
+  </a>
+</p>
+
+<br/>
 
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
