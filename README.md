@@ -1,12 +1,12 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-  <img src="./assets/header.svg" alt="Md Mursalin Header" width="100%" />
+  <img src="./assets/header.svg" alt="Md Mursalin - Cybersecurity Expert Header" width="100%" />
 
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&height=45&lines=Hi+there%2C+I+am+Md+Mursalin;Android+Application+Developer;Full-Stack+Web+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&height=45&lines=Cybersecurity+Specialist;Ethical+Hacker+%26+Penetration+Tester;Network+Security+%26+SOC+Analyst;Welcome+to+my+Security+HQ!" alt="Cybersecurity Typing SVG" />
   </a>
 
   <br/>
@@ -26,13 +26,13 @@
 
   <p align="center">
     <a href="https://github.com/Mursalin2111">
-      <img src="https://komarev.com/ghpvc/?username=Mursalin2111&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=Mursalin2111&style=flat-square&color=00f2fe&label=Profile+Views" alt="Profile Views" />
     </a>
     <a href="https://github.com/Mursalin2111?tab=repositories">
       <img src="https://img.shields.io/github/stars/Mursalin2111?affiliations=OWNER&style=flat-square&color=yellow&label=Stars" alt="GitHub Stars" />
     </a>
     <a href="https://github.com/Mursalin2111?tab=followers">
-      <img src="https://img.shields.io/github/followers/Mursalin2111?style=flat-square&color=blue&label=Followers" alt="GitHub Followers" />
+      <img src="https://img.shields.io/github/followers/Mursalin2111?style=flat-square&color=10b981&label=Followers" alt="GitHub Followers" />
     </a>
   </p>
 
@@ -40,73 +40,67 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🛡️ About Me
 
-I am a **Computer Science and Engineering** undergraduate at **Green University of Bangladesh**, driven by a passion for building robust software, elegant mobile applications, and responsive web solutions. I love solving real-world challenges through clean architecture, maintainable code, and user-centric design.
+I am a **Computer Science and Engineering** undergraduate at **Green University of Bangladesh** with a focused specialization in **Cybersecurity**, **Ethical Hacking**, and **Digital Defense**. I bridge the gap between software development and security analysis — understanding how systems are engineered to effectively identify vulnerabilities and fortify them against cyber threats.
 
 - 🎓 **Education**: B.Sc. in Computer Science & Engineering at **Green University of Bangladesh**
-- 📱 **Primary Focus**: Modern Android Development (**Jetpack Compose**, **Kotlin**, **MVVM**)
-- 🌐 **Web Development**: Building responsive, interactive web interfaces with **React.js** & **Tailwind CSS**
-- 🤖 **Interests**: Exploring **Artificial Intelligence**, Machine Learning, and intelligent automation
-- 🎨 **Creative Side**: UI/UX design and multimedia editing using **Figma**, **Photoshop**, and **Premiere Pro**
-- 💬 **Ask me about**: Android SDK, Kotlin, React, Object-Oriented Programming, and Clean Code
-- ⚡ **Philosophy**: *"Continuous learning and persistent curiosity."*
+- 🛡️ **Primary Specialization**: Cybersecurity Analysis, Vulnerability Assessment & Penetration Testing (VAPT)
+- 🔍 **Offensive Security**: Web application testing (OWASP Top 10), network scanning, reconnaissance, and exploitation fundamentals
+- 🛡️ **Defensive Security**: Network traffic inspection, incident response basics, firewall/IDS rules, and system hardening
+- 💻 **Security Automation**: Writing custom security tools, scanners, and exploit automation scripts using **Python** & **Bash**
+- 🎯 **Hands-On Practice**: Solving CTF (Capture The Flag) challenges and practicing on platforms like **TryHackMe** and **Hack The Box**
+- ⚡ **Core Philosophy**: *"Security is not a feature; it is an ongoing mindset of vigilance, ethical hacking, and proactive defense."*
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### 🛠️ Cybersecurity Arsenal & Skills
 
 <div align="center">
 
-#### 💻 Programming Languages
+#### ⚔️ Penetration Testing & Security Tools
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-002D62?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-E24D00?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+</p>
+
+#### 💻 Security Scripting & Core Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (Security Automation)" />
+  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Scripting" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-#### 📱 Mobile App Development
+#### 🌐 Network Defense & Defensive Security
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/MVVM_Architecture-02569B?style=for-the-badge&logo=google&logoColor=white" alt="MVVM" />
-  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines" />
+  <img src="https://img.shields.io/badge/Network_Protocols-TCP%2FIP_DNS_HTTP(S)-0052CC?style=for-the-badge" alt="Network Protocols" />
+  <img src="https://img.shields.io/badge/Cryptography-AES_RSA_Hashing-6A0DAD?style=for-the-badge" alt="Cryptography" />
+  <img src="https://img.shields.io/badge/SIEM_%26_Logs-Analysis-008080?style=for-the-badge" alt="SIEM & Log Analysis" />
+  <img src="https://img.shields.io/badge/Firewalls_%26_IDS-Snort%20%2F%20IPTables-D9381E?style=for-the-badge" alt="Firewalls & IDS" />
 </p>
 
-#### 🌐 Web Development
+#### 🧰 Platforms, Labs & Environments
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
-
-#### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-#### 🎨 Creative & UI/UX Design
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
 </p>
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
   <table border="0">
@@ -127,18 +121,18 @@ I am a **Computer Science and Engineering** undergraduate at **Green University 
 
 ---
 
-### 🚀 What I'm Currently Focused On
+### 🎯 Current Security Missions & Focus
 
-- 📱 Engineering modern Android applications using **Jetpack Compose** & reactive state patterns.
-- 🌐 Developing intuitive, fast, and accessible web solutions with **React** & **Tailwind CSS**.
-- 🧠 Expanding knowledge in **Data Structures, Algorithms**, and Machine Learning concepts.
-- 🤝 Actively seeking opportunities to collaborate on impactful software projects and open source.
+- 🔍 **Web App Penetration Testing**: Deepening hands-on mastery over injection flaws, authentication bypasses, and CSRF/XSS vectors.
+- 🐍 **Security Tool Development**: Writing automated reconnaissance tools and vulnerability scanners with Python.
+- 🚩 **CTF Training**: Continuously solving offensive and defensive labs across **TryHackMe** and **Hack The Box**.
+- 🤝 **Collaboration & Research**: Actively open to working on open-source security tools, bug bounties, and research initiatives.
 
 ---
 
-### 📬 Get In Touch
+### 📬 Establish Connection
 
-Whether you want to discuss a project, collaborate, or simply say hello — feel free to reach out!
+Have a question, security inquiry, or interesting collaboration opportunity? Let's connect:
 
 <div align="center">
 
@@ -156,6 +150,6 @@ Whether you want to discuss a project, collaborate, or simply say hello — feel
 
   <br/><br/>
 
-  <p><i>⭐️ If you find my work interesting, feel free to explore my repositories and star your favorites! ⭐️</i></p>
+  <p><i>🔒 "The quieter you become, the more you are able to hear." — Kali Linux 🔒</i></p>
 
 </div>
