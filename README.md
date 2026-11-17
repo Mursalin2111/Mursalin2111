@@ -1,247 +1,159 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <h3 align="center">⌨️ Hi, </h3>
-</p>
+<div align="center">
 
-<p align="center">
-  <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+Profile;This+is+me+Md+Mursalin;Message+me+in+everywhere&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,30&height=180&section=header&text=Md%20Mursalin&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Android%20%26%20Web%20%7C%20CSE%20Undergrad&descFontSize=18&descAlignY=62&fontColor=ffffff" alt="Header Banner" width="100%" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-mursalin-60536b366/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mursalinhossan86@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mursalinhossan86%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=50&lines=Hi+there%2C+I'm+Md+Mursalin+👋;Android+Application+Developer;Full-Stack+Web+Enthusiast;AI+%26+Machine+Learning+Explorer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 
-  <a href="https://github.com/Mursalin2111">
-    <img src="https://img.shields.io/github/followers/Mursalin2111?label=Followers&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Mursalin2111?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Mursalin2111?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/md-mursalin-60536b366/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:mursalinhossan86@gmail.com">
+      <img src="https://img.shields.io/badge/Email-mursalinhossan86%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Mursalin2111">
+      <img src="https://img.shields.io/badge/GitHub-Mursalin2111-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-008080?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
 
-<br/>
+  <p align="center">
+    <a href="https://github.com/Mursalin2111">
+      <img src="https://komarev.com/ghpvc/?username=Mursalin2111&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+    </a>
+    <a href="https://github.com/Mursalin2111?tab=repositories">
+      <img src="https://img.shields.io/github/stars/Mursalin2111?affiliations=OWNER&style=flat-square&color=yellow&label=Stars" alt="GitHub Stars" />
+    </a>
+    <a href="https://github.com/Mursalin2111?tab=followers">
+      <img src="https://img.shields.io/github/followers/Mursalin2111?style=flat-square&color=blue&label=Followers" alt="GitHub Followers" />
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
-<!-- markdownlint-enable MD033 -->
-## 👋 About Me
-
-I am a Computer Science and Engineering undergraduate at Green University of Bangladesh with a strong passion for software development, mobile applications, and Artificial Intelligence. I enjoy building innovative and practical solutions while continuously learning new technologies and improving my skills.
-
-💻 I have experience in:
-- Android Development (Jetpack Compose, MVVM)
-- Web Development (ReactJS, Tailwind CSS)
-- Programming Languages: C, C++, Java, Kotlin, Python
-
-🎨 I also have an interest in design and multimedia, working with tools like Adobe Photoshop, Illustrator, and Premiere Pro.
-
-🚀 Currently, I am exploring:
-- Artificial Intelligence & Machine Learning
-- Modern Mobile App Development
-- Full-Stack Web Development
-
-🤝 I am always open to networking, collaboration, and exciting opportunities. Feel free to connect with me and explore my projects!
-## ⚡ Quick setup
-
-1. Copy-paste the markdown below into your GitHub profile README
-2. Replace the value after `?lines=` with your text. Separate lines of text with semicolons and use `+` or `%20` for spaces.
-3. Adjust the width parameter (see below) to fit the full width of your text.
-
-```md
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-```
-
-4. Star the repo 😄
-
-## ⚙ Demo site
-
-Here you can easily customize your Typing SVG with a live preview.
-
-<https://readme-typing-svg.demolab.com/demo/>
-
-[![Demo Site](https://user-images.githubusercontent.com/20955511/183703055-42ec8754-d84c-414f-8132-a02974224aa1.gif "Demo Site")](https://readme-typing-svg.demolab.com/demo/)
-
-## 🚀 Example usage
-
-Below are links to profiles where you can see Readme Typing SVGs in action!
-
-[![Jonah Lawrence](https://github.com/DenverCoder1.png?size=60)](https://github.com/DenverCoder1 "Jonah Lawrence on GitHub")
-[![Jini by Rentalz.com](https://i.imgur.com/TtuoKCs.png)](https://jini.rentalz.com/ "Jini by Rentalz.com")
-[![Waren Gonzaga](https://github.com/warengonzaga.png?size=60)](https://github.com/warengonzaga "Waren Gonzaga on GitHub")
-[![8BitJonny](https://github.com/8BitJonny.png?size=60)](https://github.com/8BitJonny "8BitJonny on GitHub")
-[![Aditya Raute](https://github.com/adityaraute.png?size=60)](https://github.com/adityaraute "Aditya Raute on GitHub")
-[![Shiva Sankeerth Reddy](https://github.com/ShivaSankeerth.png?size=60)](https://github.com/ShivaSankeerth "Shiva Sankeerth Reddy on GitHub")
-[![Tarun Kamboj](https://github.com/Tarun-Kamboj.png?size=60)](https://github.com/Tarun-Kamboj "Tarun Kamboj on GitHub")
-[![T.A.Vignesh](https://github.com/tavignesh.png?size=60)](https://github.com/tavignesh "T.A.Vignesh on GitHub")
-[![William J. Ghelfi](https://github.com/trumbitta.png?size=60)](https://github.com/trumbitta "William J. Ghelfi on GitHub")
-[![Mano Bharathi M](https://i.imgur.com/Audc6L9.png)](https://github.com/ManoBharathi93 "Mano Bharathi M on GitHub")
-[![Shivam Yadav](https://github.com/sudoshivam.png?size=60)](https://github.com/sudoshivam "Shivam Yadav on GitHub")
-[![Pratik Pingale](https://github.com/PROxZIMA.png?size=60)](https://github.com/PROxZIMA "Pratik Pingale on GitHub")
-[![Vydr'Oz](https://github.com/VydrOz.png?size=60)](https://github.com/VydrOz "Vydr'Oz on GitHub")
-[![Caroline Heloíse](https://github.com/Carol42.png?size=60)](https://github.com/Carol42 "Caroline Heloíse on GitHub")
-[![PriyanshK09](https://github.com/PriyanshK09.png?size=60)](https://github.com/PriyanshK09 "PriyanshK09 on GitHub")
-[![Thakur Ballary](https://github.com/thakurballary.png?size=60)](https://github.com/thakurballary "Thakur Ballary on GitHub")
-[![NiceSapien](https://github.com/nicesapien.png?size=60)](https://github.com/nicesapien "NiceSapien on GitHub")
-[![Manthan Ank](https://github.com/manthanank.png?size=60)](https://github.com/manthanank "Manthan Ank on GitHub")
-[![Ronny Coste](https://github.com/lertsoft.png?size=60)](https://github.com/lertsoft "Ronny Coste on GitHub")
-[![Vishal Beep](https://github.com/vishal-beep136.png?size=60)](https://github.com/Vishal-beep136 "Vishal Beep on GitHub")
-[![wiz64](https://github.com/wiz64.png?size=60)](https://github.com/wiz64 "wiz64 on GitHub")
-[![Aquarian Blake](https://github.com/Aquarius-blake.png?size=60)](https://github.com/Aquarius-blake "Aquarian Blake on GitHub")
-[![D3vil0p3r](https://github.com/D3vil0p3r.png?size=60)](https://github.com/D3vil0p3r "D3vil0p3r on GitHub")
-[![EliusHHimel](https://github.com/EliusHHimel.png?size=60)](https://github.com/EliusHHimel "EliusHHimel on GitHub")
-[![jcs090218](https://github.com/jcs090218.png?size=60)](https://github.com/jcs090218 "jcs090218 on GitHub")
-[![Rishabh2804](https://github.com/Rishabh2804.png?size=60)](https://github.com/Rishabh2804 "Rishabh2804 on GitHub")
-[![shalinibhatt](https://github.com/shalinibhatt.png?size=60)](https://github.com/shalinibhatt "shalinibhatt on GitHub")
-[![UlisesAlexanderAM](https://github.com/UlisesAlexanderAM.png?size=60)](https://github.com/UlisesAlexanderAM "UlisesAlexanderAM on GitHub")
-[![SpookyJelly](https://github.com/SpookyJelly.png?size=60)](https://github.com/SpookyJelly "SpookyJelly on GitHub")
-[![majidtdeni666](https://github.com/majidtdeni666.png?size=60)](https://github.com/majidtdeni666 "majidtdeni666 on GitHub")
-[![GalexY727](https://github.com/galexy727.png?size=60)](https://github.com/galexy727 "GalexY727 on GitHub")
-[![HectorSaldes](https://github.com/HectorSaldes.png?size=60)](https://github.com/HectorSaldes "HectorSaldes on GitHub")
-[![Ash-codes18](https://github.com/Ash-codes18.png?size=60)](https://github.com/Ash-codes18 "Ash-codes18 on GitHub")
-[![Maagnitude](https://github.com/Maagnitude.png?size=60)](https://github.com/Maagnitude "Maagnitude on GitHub")
-[![cracker911181](https://github.com/cracker911181.png?size=60)](https://github.com/cracker911181 "cracker911181 on GitHub")
-[![quiet-node](https://github.com/quiet-node.png?size=60)](https://github.com/quiet-node "quiet-node on GitHub")
-[![kaustubh43](https://github.com/kaustubh43.png?size=60)](https://github.com/kaustubh43 "kaustubh43 on GitHub")
-[![kaisunoo](https://github.com/kaisunoo.png?size=60)](https://github.com/kaisunoo "kaisunoo on GitHub")
-[![meyer-pidiache](https://github.com/meyer-pidiache.png?size=60)](https://github.com/meyer-pidiache "Meyer Pidiache on GitHub")
-[![jeremiahseun](https://github.com/jeremiahseun.png?size=60)](https://github.com/jeremiahseun "Jeremiah Erinola on GitHub")
-[![Anand Purushottam](https://github.com/creativepurus.png?size=60)](https://github.com/creativepurus "Anand Purushottam 🇮🇳 on GitHub ☕")
-[![Greg Chism](https://github.com/Gchism94.png?size=60)](https://github.com/Gchism94 "Greg Chism 🤘 on GitHub")
-[![turbomaster95](https://github.com/turbomaster95.png?size=60)](https://github.com/turbomaster95 "turbomaster95 🗿 🇮🇳 on GitHub ☕")
-[![K1rsN7](https://github.com/K1rsN7.png?size=60)](https://github.com/K1rsN7 "K1rsN7 on GitHub💪")
-[![codesbyahsen](https://github.com/codesbyahsen.png?size=60)](https://github.com/codesbyahsen "AHSEN ALEE on GitHub")
-[![Freddywhest](https://github.com/Freddywhest.png?size=60)](https://github.com/Freddywhest "Alfred Nti on GitHub")
-[![Shiro-cha](https://github.com/Shiro-cha.png?size=60)](https://github.com/Shiro-cha "Shiro Yukami on Github")
-[![Abid-Nafi](https://github.com/MohammedAbidNafi.png?size=60)](https://github.com/MohammedAbidNafi "Abid Nafi on Github")
-[![Srijan-Baniyal](https://github.com/Srijan-Baniyal.png?size=60)](https://github.com/Srijan-Baniyal "Srijan Baniyal on Github")
-[![BrunoOliveiraS](https://github.com/BrunoOliveiraS.png?size=60)](https://github.com/BrunoOliveiraS "Bruno Oliveira on Github")
-[![zidk](https://github.com/zidk.png?size=60)](https://github.com/zidk "Pablo Gonzalez on Github")
-[![tshr-d-dragon](https://github.com/tshr-d-dragon.png?size=60)](https://github.com/tshr-d-dragon "Tushar Patil on Github")
-[![DeveshYadav13](https://github.com/DeveshYadav13.png?size=60)](https://github.com/DeveshYadav13 "Devesh Yadav on Github")
-[![HauseMasterZ](https://github.com/HauseMasterZ.png?size=60)](https://github.com/HauseMasterZ "HauseMaster on Github")
-[![hyskoniho](https://github.com/hyskoniho.png?size=60)](https://github.com/hyskoniho "hyskoniho on Github")
-[![elvisisvan](https://github.com/elvisisvan.png?size=60)](https://github.com/elvisisvan "elvisisvan on Github")
-[![Nquenan](https://github.com/Nquenan.png?size=60)](https://github.com/Nquenan "Nquenan on Github")
-[![akhilnev](https://github.com/akhilnev.png?size=60)](https://github.com/akhilnev "Akhilesh Nevatia on Github")
-[![mannysoft](https://github.com/mannysoft.png?size=60)](https://github.com/mannysoft "Manny Isles on Github")
-[![LinThitHtwe](https://github.com/LinThitHtwe.png?size=60)](https://github.com/LinThitHtwe "LinThitHtwe on Github")
-[![Elio-Aliaj](https://github.com/Elio-Aliaj.png?size=60)](https://github.com/Elio-Aliaj "Elio-Aliaj on Github")
-[![presentformyfriends](https://github.com/presentformyfriends.png?size=60)](https://github.com/presentformyfriends "presentformyfriends on Github")
-[![Ad7amstein](https://github.com/Ad7amstein.png?size=60)](https://github.com/Ad7amstein "Ad7amstein on Github")
-[![LakshmanKishore](https://github.com/LakshmanKishore.png?size=60)](https://github.com/LakshmanKishore "LakshmanKishore on Github")
-[![mateusadada](https://github.com/mateusadada.png?size=60)](https://github.com/mateusadada "mateusadada on Github")
-[![fasakinhenry](https://github.com/fasakinhenry.png?size=60)](https://github.com/fasakinhenry "fasakinhenry on Github")
-[![YousifAbozid](https://github.com/YousifAbozid.png?size=60)](https://github.com/YousifAbozid "YousifAbozid on Github")
-[![hheinsoee](https://github.com/hheinsoee.png?size=60)](https://github.com/hheinsoee "hheinsoee on Github")
-[![lucmsilva651](https://github.com/lucmsilva651.png?size=60)](https://github.com/lucmsilva651 "lucmsilva651 on Github")
-[![ashertenenbaum](https://github.com/ashertenenbaum.png?size=60)](https://github.com/ashertenenbaum "ashertenenbaum on Github")
-[![0dxplt](https://github.com/0dxplt.png?size=60)](https://github.com/0dxplt "0dxplt on Github")
-[![HerobrineTV](https://github.com/HerobrineTV.png?size=60)](https://github.com/HerobrineTV "HerobrineTV on Github")
-[![Borketh](https://github.com/Borketh.png?size=60)](https://github.com/Borketh "Borketh on Github")
-[![Jafeth Yahuma](https://github.com/Callmeproteus.png?size=60)](https://github.com/Callmeproteus "Callmeproteus on GitHub")
-[![João Pedro](https://github.com/JotaP07.png?size=60)](https://github.com/JotaP07 "JP on GitHub")
-[![suzukimain](https://github.com/suzukimain.png?size=60)](https://github.com/suzukimain "suzukimain on Github")
-[![caesar013](https://github.com/caesar013.png?size=60)](https://github.com/caesar013 "caesar013 on Github")
-[![amir78729](https://github.com/amir78729.png?size=60)](https://github.com/amir78729 "Amir on Github")
-[![AJsuper007](https://github.com/AJsuper007.png?size=60)](https://github.com/AJsuper007 "AJsuper007 on Github")
-[![ABAN26](https://github.com/ABAN26.png?size=60)](https://github.com/ABAN26 "ABAN26 on Github")
-[![Soham More](https://github.com/SohamMore100.png?size=60)](https://github.com/SohamMore100 "Soham More on GitHub")
-[![Yogi Hariyani](https://github.com/yobro7292.png?size=60)](https://github.com/Yobro7292 "Yogi Hariyani on GitHub")
-[![Antônio Nascimento](https://github.com/Ninja1375.png?size=60)](https://github.com/Ninja1375 "Antônio Nascimento on GitHub")
-[![Ishaan Rastogi](https://github.com/TridentifyIshaan.png?size=60)](https://github.com/TridentifyIshaan "Tridentify Ishaan on GitHub")
-[![Eligijus Ciza](https://github.com/krimmyy.png?size=60)](https://github.com/krimmyy "Eligijus Ciza on GitHub")
-[![Ashish Vaghela](https://github.com/Ashish-CodeJourney.png?size=60)](https://github.com/Ashish-CodeJourney "Ashish Vaghela on GitHub")
-[![Snoopy1866](https://github.com/Snoopy1866.png?size=60)](https://github.com/Snoopy1866 "Snoopy1866 on GitHub")
-[![Sarthak Krishak](https://github.com/SarthakKrishak.png?size=60)](https://github.com/SarthakKrishak "Sarthak Krishak on GitHub")
-[![Austin Musuya](https://github.com/AustinMusuya.png?size=60)](https://github.com/AustinMusuya "Austin Musuya on GitHub")
-[![Rohit](https://github.com/EngineerRohit01.png?size=60)](https://github.com/EngineerRohit01 "Rohit on GitHub")
-[![Sandeep Prasad](https://github.com/Sandeep-Petwal.png?size=60)](https://github.com/sandeep-Petwal "Sandeep Prasad on GitHub")
-[![Saad Hussain](https://github.com/saadhusayn.png?size=60)](https://github.com/saadhusayn "Saad Hussain on Github")
-[![Rahul Raj](https://github.com/Theglassofdata.png?size=60)](https://github.com/Theglassofdata "Rahul Raj")
-[![Aditya Singh](https://github.com/EchoSingh.png?size=60)](https://github.com/EchoSingh "Aditya Singh on Github")
-[![Harry Skerritt](https://github.com/user-attachments/assets/392d404f-b0af-4fab-b4f7-120a36ffc3f4)](https://github.com/Harry-Skerritt "Harry-Skerritt on Github")
-[![Madhurima Rawat](https://github.com/madhurimarawat.png?size=60)](https://github.com/madhurimarawat "Madhurima Rawat on Github")
-[![Lixiao Zhu](https://github.com/zhulixiao.png?size=60)](https://github.com/zhulixiao "Lixiao Zhu on Github")
-[![Ahmed Nassar](https://github.com/AhmedNassar7.png?size=60)](https://github.com/AhmedNassar7 "Ahmed Nassar on Github")
-
-Feel free to [open a PR](https://github.com/DenverCoder1/readme-typing-svg/issues/21#issue-870549556) and add yours!
-
-## 🔧 Options
-
-|    Parameter    |                                   Details                                   |  Type   |                                                      Example                                                      |
-| :-------------: | :-------------------------------------------------------------------------: | :-----: | :---------------------------------------------------------------------------------------------------------------: |
-|     `lines`     |       Text to display with lines separated by `;` and `+` for spaces        | string  |                                        `First+line;Second+line;Third+line`                                        |
-|    `height`     |             Height of the output SVG in pixels (default: `50`)              | integer |                                                Any positive number                                                |
-|     `width`     |             Width of the output SVG in pixels (default: `400`)              | integer |                                                Any positive number                                                |
-|     `size`      |                     Font size in pixels (default: `20`)                     | integer |                                                Any positive number                                                |
-|     `font`      |                     Font family (default: `monospace`)                      | string  |                                            Any font from Google Fonts                                             |
-|     `color`     |                    Color of the text (default: `36BCF7`)                    | string  |                                         Hex code without # (eg. `F724A9`)                                         |
-|  `background`   |             Background color of the text (default: `00000000`)              | string  |                                         Hex code without # (eg. `FEFF4C`)                                         |
-|    `center`     |    `true` to center text or `false` for left aligned (default: `false`)     | boolean |                                                 `true` or `false`                                                 |
-|    `vCenter`    |  `true` to center vertically or `false`(default) to align above the center  | boolean |                                                 `true` or `false`                                                 |
-|   `multiline`   |  `true` to wrap lines or `false` to retype on one line (default: `false`)   | boolean |                                                 `true` or `false`                                                 |
-|   `duration`    | Duration of the printing of a single line in milliseconds (default: `5000`) | integer |                                                Any positive number                                                |
-|     `pause`     |     Duration of the pause between lines in milliseconds (default: `0`)      | integer |                                              Any non-negative number                                              |
-|    `repeat`     |  `true` to loop around to the first line after the last (default: `true`)   | boolean |                                                 `true` or `false`                                                 |
-|   `separator`   |     Separator used between lines in the lines parameter (default: `;`)      | string  |                                               `;`, `;;`, `/`, etc.                                                |
-| `letterSpacing` |                     Letter spacing (default: `normal`)                      | string  | Any css values for the [letter-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing) property |
-
-## 📤 Deploying it on your own
-
-If you can, it is preferable to host the files on your own server.
-
-Doing this can lead to better uptime and more control over customization (you can modify the code for your usage).
-
-You can deploy the PHP files on any website server with PHP installed or as a Heroku app.
-
-### Step-by-step instructions for deploying to Heroku
-
-1. Sign in to **Heroku** or create a new account at <https://heroku.com>
-2. Click the "Deploy to Heroku" button below
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg "Deploy to Heroku")](https://heroku.com/deploy?template=https://github.com/DenverCoder1/readme-typing-svg/tree/main)
-
-3. On the page that comes up, click **"Deploy App"** at the end of the form
-4. Once the app is deployed, click **"Manage App"** to go to the dashboard
-5. Scroll down to the **Domains** section in the settings to find the URL you will use in place of `readme-typing-svg.demolab.com`
-
-## 🤗 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request if you have a way to improve this project.
-
-Make sure your request is meaningful and you have tested the app locally before submitting a pull request.
-
-Refer to [CONTRIBUTING.md](/CONTRIBUTING.md) for more details on contributing, installing requirements, and running the application.
-
-## 🙋‍♂️ Support
-
-💙 If you like this project, give it a ⭐ and share it with friends!
-
-<!-- markdownlint-disable MD033 -->
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://github.com/sponsors/DenverCoder1"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-<!-- markdownlint-enable MD033 -->
-
-[☕ Buy me a coffee](https://ko-fi.com/jlawrence)
+</div>
 
 ---
 
-Made with ❤️ and PHP
+### 👨‍💻 About Me
 
-<!-- markdownlint-disable MD033 -->
+I am a **Computer Science and Engineering** undergraduate at **Green University of Bangladesh**, driven by a passion for building robust software, elegant mobile applications, and responsive web solutions. I love solving real-world challenges through clean architecture, maintainable code, and user-centric design.
 
-<a href="https://heroku.com/"><img alt="Powered by Heroku" title="Powered by Heroku" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+- 🎓 **Education**: B.Sc. in Computer Science & Engineering at **Green University of Bangladesh**
+- 📱 **Primary Focus**: Modern Android Development (**Jetpack Compose**, **Kotlin**, **MVVM**)
+- 🌐 **Web Development**: Building responsive, interactive web interfaces with **React.js** & **Tailwind CSS**
+- 🤖 **Interests**: Exploring **Artificial Intelligence**, Machine Learning, and intelligent automation
+- 🎨 **Creative Side**: UI/UX design and multimedia editing using **Figma**, **Photoshop**, and **Premiere Pro**
+- 💬 **Ask me about**: Android SDK, Kotlin, React, Object-Oriented Programming, and Clean Code
+- ⚡ **Philosophy**: *"Continuous learning and persistent curiosity."*
 
-<!-- markdownlint-enable MD033 -->
+---
 
-This project uses [Twemoji](https://github.com/twitter/twemoji), published under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+### 🛠️ Tech Stack & Toolbox
+
+<div align="center">
+
+#### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+#### 📱 Mobile App Development
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/MVVM_Architecture-02569B?style=for-the-badge&logo=google&logoColor=white" alt="MVVM" />
+  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines" />
+</p>
+
+#### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+#### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+#### 🎨 Creative & UI/UX Design
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
+</p>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mursalin2111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mursalin's GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mursalin2111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mursalin2111&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🚀 What I'm Currently Focused On
+
+- 📱 Engineering modern Android applications using **Jetpack Compose** & reactive state patterns.
+- 🌐 Developing intuitive, fast, and accessible web solutions with **React** & **Tailwind CSS**.
+- 🧠 Expanding knowledge in **Data Structures, Algorithms**, and Machine Learning concepts.
+- 🤝 Actively seeking opportunities to collaborate on impactful software projects and open source.
+
+---
+
+### 📬 Get In Touch
+
+Whether you want to discuss a project, collaborate, or simply say hello — feel free to reach out!
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/md-mursalin-60536b366/">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:mursalinhossan86@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Mursalin2111">
+    <img src="https://img.shields.io/badge/Follow_on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,26,14,2&height=100&section=footer" width="100%" />
+
+  <p><i>⭐️ If you find my work interesting, feel free to explore my repositories and star your favorites! ⭐️</i></p>
+
+</div>
