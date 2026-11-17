@@ -1,11 +1,15 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,26,30&height=180&section=header&text=Md%20Mursalin&fontSize=42&fontAlignY=38&desc=Software%20Developer%20%7C%20Android%20%26%20Web%20%7C%20CSE%20Undergrad&descFontSize=18&descAlignY=62&fontColor=ffffff" alt="Header Banner" width="100%" />
+  <img src="./assets/header.svg" alt="Md Mursalin Header" width="100%" />
+
+  <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=50&lines=Hi+there%2C+I'm+Md+Mursalin+👋;Android+Application+Developer;Full-Stack+Web+Enthusiast;AI+%26+Machine+Learning+Explorer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&height=45&lines=Hi+there%2C+I+am+Md+Mursalin;Android+Application+Developer;Full-Stack+Web+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
+
+  <br/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/md-mursalin-60536b366/">
@@ -108,17 +112,17 @@ I am a **Computer Science and Engineering** undergraduate at **Green University 
   <table border="0">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mursalin2111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mursalin's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Mursalin2111&show_icons=true&theme=tokyonight&hide_border=true" alt="Mursalin's GitHub Stats" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mursalin2111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mursalin2111&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mursalin2111&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Mursalin2111&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -151,8 +155,6 @@ Whether you want to discuss a project, collaborate, or simply say hello — feel
   </a>
 
   <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,26,14,2&height=100&section=footer" width="100%" />
 
   <p><i>⭐️ If you find my work interesting, feel free to explore my repositories and star your favorites! ⭐️</i></p>
 
